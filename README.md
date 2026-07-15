@@ -85,6 +85,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Radhika-88/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Radhika-88/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Radhika-88/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Radhika-88/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Radhika-88/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Radhika-88/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -95,6 +96,7 @@
 | [0101-symmetric-tree](https://github.com/Radhika-88/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Radhika-88/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Radhika-88/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Radhika-88/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Radhika-88/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Radhika-88/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -108,6 +110,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Radhika-88/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Radhika-88/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Radhika-88/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Radhika-88/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Radhika-88/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Radhika-88/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -119,6 +122,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Radhika-88/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Radhika-88/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Radhika-88/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Radhika-88/DSA/tree/master/0112-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
