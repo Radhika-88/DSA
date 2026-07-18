@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/Radhika-88/DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Radhika-88/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Radhika-88/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/Radhika-88/DSA/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Radhika-88/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Radhika-88/DSA/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,4 +146,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Radhika-88/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Radhika-88/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Radhika-88/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
