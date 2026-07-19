@@ -17,6 +17,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Radhika-88/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Radhika-88/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Radhika-88/DSA/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Radhika-88/DSA/tree/master/0292-nim-game) |
 ## Recursion
 |  |
 | ------- |
@@ -151,4 +152,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Radhika-88/DSA/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Radhika-88/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Radhika-88/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
