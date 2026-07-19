@@ -18,10 +18,12 @@
 | [0258-add-digits](https://github.com/Radhika-88/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Radhika-88/DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Radhika-88/DSA/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Radhika-88/DSA/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Radhika-88/DSA/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/Radhika-88/DSA/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
