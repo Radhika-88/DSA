@@ -19,11 +19,13 @@
 | [0263-ugly-number](https://github.com/Radhika-88/DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Radhika-88/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Radhika-88/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Radhika-88/DSA/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Radhika-88/DSA/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Radhika-88/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Radhika-88/DSA/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Radhika-88/DSA/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/Radhika-88/DSA/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
