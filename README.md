@@ -23,6 +23,7 @@
 | [0367-valid-perfect-square](https://github.com/Radhika-88/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhika-88/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Radhika-88/DSA/tree/master/0412-fizz-buzz) |
+| [1025-divisor-game](https://github.com/Radhika-88/DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Radhika-88/DSA/tree/master/0118-pascals-triangle) |
+| [1025-divisor-game](https://github.com/Radhika-88/DSA/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -169,8 +171,10 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Radhika-88/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Radhika-88/DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Radhika-88/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Radhika-88/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
