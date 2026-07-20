@@ -21,6 +21,7 @@
 | [0326-power-of-three](https://github.com/Radhika-88/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Radhika-88/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Radhika-88/DSA/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Radhika-88/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -50,11 +51,13 @@
 | [0067-add-binary](https://github.com/Radhika-88/DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Radhika-88/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Radhika-88/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Radhika-88/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Radhika-88/DSA/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Radhika-88/DSA/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Radhika-88/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
