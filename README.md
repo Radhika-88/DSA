@@ -24,6 +24,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhika-88/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Radhika-88/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Radhika-88/DSA/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Radhika-88/DSA/tree/master/0441-arranging-coins) |
 | [1025-divisor-game](https://github.com/Radhika-88/DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -166,6 +167,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Radhika-88/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Radhika-88/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0367-valid-perfect-square](https://github.com/Radhika-88/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Radhika-88/DSA/tree/master/0441-arranging-coins) |
 ## Number Theory
 |  |
 | ------- |
