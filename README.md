@@ -26,6 +26,7 @@
 | [0415-add-strings](https://github.com/Radhika-88/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Radhika-88/DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Radhika-88/DSA/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Radhika-88/DSA/tree/master/0504-base-7) |
 | [1025-divisor-game](https://github.com/Radhika-88/DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -59,6 +60,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhika-88/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Radhika-88/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Radhika-88/DSA/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/Radhika-88/DSA/tree/master/0504-base-7) |
 ## Bit Manipulation
 |  |
 | ------- |
