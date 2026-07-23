@@ -28,6 +28,7 @@
 | [0492-construct-the-rectangle](https://github.com/Radhika-88/DSA/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Radhika-88/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Radhika-88/DSA/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/Radhika-88/DSA/tree/master/0598-range-addition-ii) |
 | [1025-divisor-game](https://github.com/Radhika-88/DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Radhika-88/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Radhika-88/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Radhika-88/DSA/tree/master/0118-pascals-triangle) |
+| [0598-range-addition-ii](https://github.com/Radhika-88/DSA/tree/master/0598-range-addition-ii) |
 ## Hash Table
 |  |
 | ------- |
