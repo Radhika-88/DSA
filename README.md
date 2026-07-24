@@ -41,6 +41,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Radhika-88/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Radhika-88/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Radhika-88/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Radhika-88/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Radhika-88/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Radhika-88/DSA/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Radhika-88/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Radhika-88/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Radhika-88/DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Radhika-88/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -188,4 +190,8 @@
 | ------- |
 | [0292-nim-game](https://github.com/Radhika-88/DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Radhika-88/DSA/tree/master/1025-divisor-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Radhika-88/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
